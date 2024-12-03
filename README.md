@@ -26,7 +26,8 @@ private void 綠色ToolStripMenuItem_Click(object sender, EventArgs e)
     p.Color = Color.Green;
 }
 ```
-![image](https://hackmd.io/_uploads/BJCcZNhQyx.png)
+![image](https://github.com/user-attachments/assets/32279c4d-8681-4f1e-850e-5a094ff8b380)
+
 
 ### 線條粗細
 ```csharp
@@ -45,7 +46,8 @@ private void 綠色ToolStripMenuItem_Click(object sender, EventArgs e)
      p.Width = 15;
  }
 ```
-![image](https://hackmd.io/_uploads/H1NbGVhmyx.png)
+![image](https://github.com/user-attachments/assets/4248b283-a935-47b6-97ad-8d03347fed6b)
+
 
 ### 線條樣式
 ```csharp
@@ -68,4 +70,5 @@ private void 長虛線ToolStripMenuItem_Click(object sender, EventArgs e)
     p.DashStyle = System.Drawing.Drawing2D.DashStyle.DashDotDot;
 }
 ```
-![image](https://hackmd.io/_uploads/S1hdGVnmye.png)
+![image](https://github.com/user-attachments/assets/35cea244-0a8c-4326-a276-05ff2bd7c928)
+
